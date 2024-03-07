@@ -1,0 +1,412 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{Makandar:2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ea2dd56ea19d84a815777e85314b42c}{%
+           family={Aziz\bibnamedelima Makandar},
+           familyi={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Bhagirathi\bibnamedelima Halalli},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, USA}%
+      }
+      \list{publisher}{1}{%
+        {Foundation of Computer Science (FCS), NY, USA}%
+      }
+      \strng{namehash}{4ea2dd56ea19d84a815777e85314b42c}
+      \strng{fullhash}{4ea2dd56ea19d84a815777e85314b42c}
+      \strng{bibnamehash}{4ea2dd56ea19d84a815777e85314b42c}
+      \strng{authorbibnamehash}{4ea2dd56ea19d84a815777e85314b42c}
+      \strng{authornamehash}{4ea2dd56ea19d84a815777e85314b42c}
+      \strng{authorfullhash}{4ea2dd56ea19d84a815777e85314b42c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{0975-8887}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{month}{1}
+      \field{number}{14}
+      \field{title}{Image Enhancement Techniques using Highpass and Lowpass Filters}
+      \field{volume}{109}
+      \field{year}{2015}
+      \field{pages}{21\bibrangedash 27}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.5120/19256-0999
+      \endverb
+      \verb{urlraw}
+      \verb https://ijcaonline.org/archives/volume109/number14/19256-0999/
+      \endverb
+      \verb{url}
+      \verb https://ijcaonline.org/archives/volume109/number14/19256-0999/
+      \endverb
+    \endentry
+    \entry{Rojas:2008}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=904843fdfb07bf68bf50b32ec128cb70}{%
+           family={Báez-Rojas},
+           familyi={B\bibinithyphendelim R\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14e0d9fc117465d1365bf3d8b5d6254a}{%
+           family={Alonso\bibnamedelima Pérez},
+           familyi={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dee3094086f36b9c25f23ec7461b284b}
+      \strng{fullhash}{dee3094086f36b9c25f23ec7461b284b}
+      \strng{bibnamehash}{dee3094086f36b9c25f23ec7461b284b}
+      \strng{authorbibnamehash}{dee3094086f36b9c25f23ec7461b284b}
+      \strng{authornamehash}{dee3094086f36b9c25f23ec7461b284b}
+      \strng{authorfullhash}{dee3094086f36b9c25f23ec7461b284b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Revista mexicana de física E}
+      \field{month}{12}
+      \field{title}{Uso del sistema HSI para asignar falso color a objetos en imágenes digitales}
+      \field{volume}{54}
+      \field{year}{2008}
+    \endentry
+    \entry{Anju:2019}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=06dd387d2e7eccfb892d571347efac17}{%
+           family={Bala},
+           familyi={B\bibinitperiod},
+           given={Anju},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=646e9240459e0ad9b2ad9d401e52d4e8}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Aman\bibnamedelima Kumar},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb6dfbf70c564afffc5d61d68c8304d1}
+      \strng{fullhash}{fb6dfbf70c564afffc5d61d68c8304d1}
+      \strng{bibnamehash}{fb6dfbf70c564afffc5d61d68c8304d1}
+      \strng{authorbibnamehash}{fb6dfbf70c564afffc5d61d68c8304d1}
+      \strng{authornamehash}{fb6dfbf70c564afffc5d61d68c8304d1}
+      \strng{authorfullhash}{fb6dfbf70c564afffc5d61d68c8304d1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 Fifth International Conference on Image Information Processing (ICIIP)}
+      \field{title}{Image Segmentation: Automatic Cluster Number Generation in K-Means}
+      \field{year}{2019}
+      \field{pages}{199\bibrangedash 204}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICIIP47207.2019.8985826
+      \endverb
+      \keyw{image segmentation;clustering;k-means;threshold;histogram analysis;cluster number}
+    \endentry
+    \entry{Bolat-2022}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=639831bae8d98bc7d0bc7a5b6f9ac32d}{%
+           family={Bolat},
+           familyi={B\bibinitperiod},
+           given={Muhammet},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{639831bae8d98bc7d0bc7a5b6f9ac32d}
+      \strng{fullhash}{639831bae8d98bc7d0bc7a5b6f9ac32d}
+      \strng{bibnamehash}{639831bae8d98bc7d0bc7a5b6f9ac32d}
+      \strng{authorbibnamehash}{639831bae8d98bc7d0bc7a5b6f9ac32d}
+      \strng{authornamehash}{639831bae8d98bc7d0bc7a5b6f9ac32d}
+      \strng{authorfullhash}{639831bae8d98bc7d0bc7a5b6f9ac32d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{title}{{Image segmentation using K-Means clustering algorithm and Mean-Shift clustering algorithm}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://medium.com/@muhammetbolat/image-segmentation-using-k-means-clustering-algorithm-and-mean-shift-clustering-algorithm-fb6ebe4cb761
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@muhammetbolat/image-segmentation-using-k-means-clustering-algorithm-and-mean-shift-clustering-algorithm-fb6ebe4cb761
+      \endverb
+    \endentry
+    \entry{Dhanachandra:2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=32aa8059d214c402d7b247da7af4588e}{%
+           family={Dhanachandra},
+           familyi={D\bibinitperiod},
+           given={Nameirakpam},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3765f8328cecbaf9915df7eacb8918a0}{%
+           family={Manglem},
+           familyi={M\bibinitperiod},
+           given={Khumanthem},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf2dc005698b5feff62ff13e9d2a573e}{%
+           family={Chanu},
+           familyi={C\bibinitperiod},
+           given={Yambem\bibnamedelima Jina},
+           giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fe10b5519eb80c17898a54f5b517841b}
+      \strng{fullhash}{fe10b5519eb80c17898a54f5b517841b}
+      \strng{bibnamehash}{fe10b5519eb80c17898a54f5b517841b}
+      \strng{authorbibnamehash}{fe10b5519eb80c17898a54f5b517841b}
+      \strng{authornamehash}{fe10b5519eb80c17898a54f5b517841b}
+      \strng{authorfullhash}{fe10b5519eb80c17898a54f5b517841b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{1877-0509}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{Image Segmentation Using K -means Clustering Algorithm and Subtractive Clustering Algorithm}
+      \field{volume}{54}
+      \field{year}{2015}
+      \field{pages}{764\bibrangedash 771}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050915014143
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050915014143
+      \endverb
+    \endentry
+    \entry{Gonzalez:2008}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0a0df2ba89d8ec36b2aafd36b130ed41}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6a52085d75efa70e8e0ef43f94d6f04}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice-Hall Prentice-Hall Prentice-Hall}%
+      }
+      \strng{namehash}{c20699c2e958ca742340a1759b94eef1}
+      \strng{fullhash}{c20699c2e958ca742340a1759b94eef1}
+      \strng{bibnamehash}{c20699c2e958ca742340a1759b94eef1}
+      \strng{authorbibnamehash}{c20699c2e958ca742340a1759b94eef1}
+      \strng{authornamehash}{c20699c2e958ca742340a1759b94eef1}
+      \strng{authorfullhash}{c20699c2e958ca742340a1759b94eef1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Digital Image Processing}
+      \field{year}{2002}
+    \endentry
+    \entry{jensen:2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ebfe5946bd13f51fe14c41de190c8b65}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Daniel\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d460bb54b6784e23de1bc158b1f3f3a4}{%
+           family={Elewski},
+           familyi={E\bibinitperiod},
+           given={Boni\bibnamedelima E},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{94e7eeeee8b0aba5edff41bc93751716}
+      \strng{fullhash}{94e7eeeee8b0aba5edff41bc93751716}
+      \strng{bibnamehash}{94e7eeeee8b0aba5edff41bc93751716}
+      \strng{authorbibnamehash}{94e7eeeee8b0aba5edff41bc93751716}
+      \strng{authornamehash}{94e7eeeee8b0aba5edff41bc93751716}
+      \strng{authorfullhash}{94e7eeeee8b0aba5edff41bc93751716}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{The Journal of clinical and aesthetic dermatology}
+      \field{number}{2}
+      \field{title}{The ABCDEF Rule: Combining the ``ABCDE Rule'' and the ``Ugly Duckling Sign'' in an Effort to Improve Patient Self-Screening Examinations}
+      \field{volume}{8}
+      \field{year}{2015}
+      \field{pages}{15}
+      \range{pages}{1}
+    \endentry
+    \entry{Sammouda:2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6ac8a4d3f42b130cbb579974410b30a9}{%
+           family={Sammouda},
+           familyi={S\bibinitperiod},
+           given={Rachid},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5882cff38cc0c0562b9dbc35ab885169}{%
+           family={El-Zaart},
+           familyi={E\bibinithyphendelim Z\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{494bb6b50f2b25e6146d2f9066cb5c46}
+      \strng{fullhash}{494bb6b50f2b25e6146d2f9066cb5c46}
+      \strng{bibnamehash}{494bb6b50f2b25e6146d2f9066cb5c46}
+      \strng{authorbibnamehash}{494bb6b50f2b25e6146d2f9066cb5c46}
+      \strng{authornamehash}{494bb6b50f2b25e6146d2f9066cb5c46}
+      \strng{authorfullhash}{494bb6b50f2b25e6146d2f9066cb5c46}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Computational Intelligence and Neuroscience}
+      \field{title}{An Optimized Approach for Prostate Image Segmentation Using K-Means Clustering Algorithm with Elbow Method}
+      \field{volume}{2021}
+      \field{year}{2021}
+      \field{pages}{4553832}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1155/2021/4553832
+      \endverb
+    \endentry
+    \entry{ISIC:2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cd9df6c4ad93058b99b9fee18340d2be}{%
+           family={{The International Skin Imaging Collaboration}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd9df6c4ad93058b99b9fee18340d2be}
+      \strng{fullhash}{cd9df6c4ad93058b99b9fee18340d2be}
+      \strng{bibnamehash}{cd9df6c4ad93058b99b9fee18340d2be}
+      \strng{authorbibnamehash}{cd9df6c4ad93058b99b9fee18340d2be}
+      \strng{authornamehash}{cd9df6c4ad93058b99b9fee18340d2be}
+      \strng{authorfullhash}{cd9df6c4ad93058b99b9fee18340d2be}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{{Skin Cancer ISIC}}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic/discussion
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic/discussion
+      \endverb
+    \endentry
+    \entry{Zheng:2018}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=37fdc04e7a14ce889c0671450cdcfe9d}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e6469868cf1271277ec77f7022168fd}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Qinyi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa9d131b59f0b404ff5e4ccd2dce1b15}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Run},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aa2af736d63a5dc8c888dbd1bcfd173}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Yifei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93c313c5038556f027bb395ef84fc330}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c28945ed5320b18be7c915c5c96329d}
+      \strng{fullhash}{18ac7efa0897f923d4a73c41937c34da}
+      \strng{bibnamehash}{18ac7efa0897f923d4a73c41937c34da}
+      \strng{authorbibnamehash}{18ac7efa0897f923d4a73c41937c34da}
+      \strng{authornamehash}{1c28945ed5320b18be7c915c5c96329d}
+      \strng{authorfullhash}{18ac7efa0897f923d4a73c41937c34da}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{isbn}{1687-5281}
+      \field{journaltitle}{EURASIP Journal on Image and Video Processing}
+      \field{number}{1}
+      \field{title}{Image segmentation based on adaptive K-means algorithm}
+      \field{volume}{2018}
+      \field{year}{2018}
+      \field{pages}{68}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s13640-018-0309-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s13640-018-0309-3
+      \endverb
+      \warn{\item article entry 'Zheng:2018' (/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/example.bib): Invalid format '2018/08/03' of date field 'date' - ignoring}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

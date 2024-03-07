@@ -1,0 +1,73 @@
+\documentclass[
+  journal=largetwo,
+  manuscript=Practica-Adicional,
+  year=2024-1,
+  volume=37,
+]{cup-journal}
+
+\usepackage{amsmath}
+\usepackage[nopatch]{microtype}
+\usepackage{booktabs}
+\usepackage{listings} 
+\usepackage{hyperref} 
+\usepackage{graphicx}
+\usepackage{adjustbox}
+\newcommand\resetnobreak{\@nobreakfalse}
+
+\DefineBibliographyStrings{english}{%
+  references = {Referencias},
+}
+
+% Change the label for figures in text
+\renewcommand{\figurename}{Figura}
+% Change the label for code listing
+\renewcommand{\lstlistingname}{Código}
+
+
+% Define the custom style for MATLAB code
+\lstdefinestyle{Matlab-editor}{
+    language=Matlab,
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    frame=single,
+    backgroundcolor=\color{gray!10},
+    keywordstyle=\color{blue},
+    commentstyle=\color{green!50!black},
+    identifierstyle=\color{black},
+    stringstyle=\color{magenta}
+}
+
+\title{Segmentación de imágenes a color utilizando la técnica de cúmulos K-Means, aplicada a diferentes espacios de color.}
+
+\author{Ortiz Castañeda José Ramón}
+\affiliation{Facultad de Ciencias, UNAM
+}
+\email[]{ramon.o@ciencias.unam.mx}
+
+
+\addbibresource{example.bib}
+
+\keywords{Segmentación de imágenes, Clustering, Espacios de color} 
+
+\begin{document}
+
+\begin{abstract}
+El color proporciona mucha más información que las imágenes en escala de grises. Permite describir propiedades como la tonalidad, saturación e intensidad. Esto facilita la extracción de características distintivas de los objetos en una imagen, como su forma, textura, etc.
+\end{abstract}
+
+\noindent \textbf{Objetivos}
+\begin{itemize}
+    \item Implementar el método de ''K-Means cluster'' para la segmentación de imágenes a color utilizando diversos modelos o espacios de color.
+\end{itemize}
+
+\input{sections/motivacion.tex}
+\input{sections/analisisDeBordeAsimetria.tex}
+\input{sections/analisisDeColor.tex}
+\input{sections/conclusiones.tex}
+\input{sections/codigo.tex}
+
+\printendnotes
+
+\printbibliography
+
+\end{document}
