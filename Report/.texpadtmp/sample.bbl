@@ -404,7 +404,7 @@
       \verb{url}
       \verb https://doi.org/10.1186/s13640-018-0309-3
       \endverb
-      \warn{\item article entry 'Zheng:2018' (/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/example.bib): Invalid format '2018/08/03' of date field 'date' - ignoring}
+      \warn{\item article entry 'Zheng:2018' (/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/example.bib): Invalid format '2018/08/03' of date field 'date' - ignoring}
     \endentry
   \enddatalist
 \endrefsection

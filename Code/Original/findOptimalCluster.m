@@ -1,4 +1,4 @@
-function optimalCluster = findOptimalCluster(original_image, max_clusters, max_iter)
+function optimalCluster = findptimalCluster(original_image, max_clusters, max_iter)
     % Convertir la imagen a una matriz de dos dimensiones y normalizar
     im2 = double(original_image(:)) / 255;
 

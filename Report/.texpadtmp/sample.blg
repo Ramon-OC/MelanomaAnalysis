@@ -1,20 +1,20 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is '/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/.texpadtmp/sample.blg'
-[28] biber-darwin:340> INFO - === Fri Feb 23, 2024, 09:40:22
-[36] Biber.pm:419> INFO - Reading '/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/.texpadtmp/sample.bcf'
-[100] Biber.pm:979> INFO - Found 10 citekeys in bib section 0
-[107] Biber.pm:4419> INFO - Processing section 0
-[111] Biber.pm:4610> INFO - Looking for bibtex file '/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/example.bib' for section 0
-[112] bibtex.pm:1713> INFO - LaTeX decoding ...
-[120] bibtex.pm:1519> INFO - Found BibTeX data source '/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/example.bib'
-[168] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
-[168] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[168] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[168] Biber.pm:4239> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
-[168] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[176] bbl.pm:660> INFO - Writing '/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/.texpadtmp/sample.bbl' with encoding 'UTF-8'
-[179] bbl.pm:763> INFO - Output to /Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/.texpadtmp/sample.bbl
-[180] Biber.pm:131> WARN - legacy month field 'January' in entry 'Makandar:2015' is not an integer - this will probably not sort properly.
-[180] Biber.pm:131> WARN - article entry 'Zheng:2018' (/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/example.bib): Invalid format '2018/08/03' of date field 'date' - ignoring
-[180] Biber.pm:131> WARN - ISBN '1687-5281' in entry 'Zheng:2018' is invalid - run biber with '--validate_datamodel' for details.
-[180] Biber.pm:133> INFO - WARNINGS: 3
+[0] Config.pm:310> INFO - Logfile is '/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/.texpadtmp/sample.blg'
+[58] biber-darwin:340> INFO - === Thu Mar 14, 2024, 11:48:57
+[73] Biber.pm:419> INFO - Reading '/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/.texpadtmp/sample.bcf'
+[213] Biber.pm:979> INFO - Found 10 citekeys in bib section 0
+[225] Biber.pm:4419> INFO - Processing section 0
+[233] Biber.pm:4610> INFO - Looking for bibtex file '/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/example.bib' for section 0
+[234] bibtex.pm:1713> INFO - LaTeX decoding ...
+[248] bibtex.pm:1519> INFO - Found BibTeX data source '/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/example.bib'
+[331] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[331] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[331] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[331] Biber.pm:4239> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[331] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[344] bbl.pm:660> INFO - Writing '/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/.texpadtmp/sample.bbl' with encoding 'UTF-8'
+[349] bbl.pm:763> INFO - Output to /Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/.texpadtmp/sample.bbl
+[349] Biber.pm:131> WARN - legacy month field 'January' in entry 'Makandar:2015' is not an integer - this will probably not sort properly.
+[349] Biber.pm:131> WARN - article entry 'Zheng:2018' (/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/example.bib): Invalid format '2018/08/03' of date field 'date' - ignoring
+[349] Biber.pm:131> WARN - ISBN '1687-5281' in entry 'Zheng:2018' is invalid - run biber with '--validate_datamodel' for details.
+[349] Biber.pm:133> INFO - WARNINGS: 3

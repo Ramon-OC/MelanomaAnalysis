@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.18)  23 FEB 2024 09:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.18)  14 MAR 2024 11:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1151,7 +1151,7 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 
 LaTeX Warning: Unused global option(s):    [journal=largetwo,manuscript=Practica-Adicional,year=2024-1,volume=37].
 
-(/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/.texpadtmp/sample.aux)
+(/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/.texpadtmp/sample.aux)
 \openout1 = `sample.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
@@ -1267,11 +1267,11 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'sample.bbl' found.
- (/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/.texpadtmp/sample.bbl
+ (/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/.texpadtmp/sample.bbl
 
 Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'Zheng:2018':
-(biblatex)                - article entry 'Zheng:2018' (/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/example.bib): Invalid format '2018/08/03' of date field 'date' - ignoring.
+(biblatex)                - article entry 'Zheng:2018' (/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/example.bib): Invalid format '2018/08/03' of date field 'date' - ignoring.
 
 )
 Package biblatex Info: Reference section=0 on input line 52.
@@ -1293,7 +1293,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 \c@lstlisting=\count504
 Package hyperref Info: Link coloring OFF on input line 52.
- (/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/.texpadtmp/sample.out) (/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/.texpadtmp/sample.out)
+ (/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/.texpadtmp/sample.out) (/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/.texpadtmp/sample.out)
 \@outlinefile=\write5
 \openout5 = `sample.out'.
 
@@ -2122,7 +2122,7 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/m/sc' will be
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fbb/fbb_oiqgfb.enc}] 
 enddocument/afterlastpage: lastpage setting LastPage.
-(/Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/.texpadtmp/sample.aux)
+(/Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/.texpadtmp/sample.aux)
 Package rerunfilecheck Info: File `sample.out' has not changed.
 (rerunfilecheck)             Checksum: 8EB848E30DCBD15B2DB85CD9A5504CEB;2001.
 Package logreq Info: Writing requests to 'sample.run.xml'.
@@ -2130,15 +2130,15 @@ Package logreq Info: Writing requests to 'sample.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33583 strings out of 476025
- 599856 string characters out of 5790017
+ 33589 strings out of 476025
+ 600025 string characters out of 5790017
  2029388 words of memory out of 5000000
  52887 multiletter control sequences out of 15000+600000
- 728262 words of font info for 357 fonts, out of 8000000 for 9000
+ 728911 words of font info for 361 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  91i,14n,131p,1673b,4037s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-SemiboldIt.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fbb/fbb-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb>
-Output written on /Users/joseramonortizcastaneda/Documents/ServicioSocial/Proyecto/.texpadtmp/sample.pdf (10 pages, 3757962 bytes).
+Output written on /Users/joseramonortizcastaneda/Desktop/MelanomaAnalysis/Report/.texpadtmp/sample.pdf (10 pages, 3758012 bytes).
 PDF statistics:
  435 PDF objects out of 1000 (max. 8388607)
  268 compressed objects within 3 object streams
