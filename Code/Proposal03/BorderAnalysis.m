@@ -1,5 +1,5 @@
-original_image = imread('Images/Bad/ISIC_0000363.jpg');
-ground_thruth = imread('Images/Bad/ISIC_0000363_Segmentation.png');
+original_image = imread('Images/Intermediate/ISIC_0011082.jpg');
+ground_thruth = imread('Images/Intermediate/ISIC_0011082_Segmentation.png');
 
 order = 2;        
 cut_frequency = 20;    
